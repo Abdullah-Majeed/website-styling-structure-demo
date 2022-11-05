@@ -1,0 +1,11 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+$secondary-color: yellow;
+
+.body-text-color {
+    display: flex;
+    justify-content: center;
+    background-color: brown;
+    font: 100% $font-stack;
+    color: $primary-color;
+}
